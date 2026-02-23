@@ -45,5 +45,5 @@ gocathlon_CORRIGE.accdb : Base de données Access **(version corrigée)**
 
 Initiation – BTS + spécialité NSI au lycée
 #
-👤 Auteur : SERRES Régis Enseignant - Lycée E de Constant, La Flèche (72) GitHub : @serres-regis-prof-estournelles
+👤 Auteur : SERRES Régis - Enseignant - Lycée E de Constant, La Flèche (72) GitHub : @serres-regis-prof-estournelles
 
